@@ -1,0 +1,51 @@
+Lead ID,Company Name,Industry,Company Size,Annual Revenue,Lead Source,Social Signal Score,Lead Status,Last Activity Date
+5ed8b7ca-f2b7-449a-8f9a-97b907e1e558,Anderson PLC,Marketing,100,50000000,Paid Ads,25,New,2025-04-02
+dad5a056-32c9-4be0-8e83-53d281306fd0,Rose LLC,Healthcare,50,50000000,Social Media,71,Converted,2025-04-08
+dc7889fe-295a-4afb-9afc-d88596b4f235,"Lamb, Stevens and Brown",Healthcare,500,5000000,Cold Outreach,86,Contacted,2025-02-18
+c23a6228-04d0-4f51-9747-a248024ab830,"Williams, Grimes and Kelly",Retail,1000,10000000,Social Media,51,Converted,2025-05-01
+f53799c0-29ac-44f0-8d12-6d1d62825922,Cobb LLC,Healthcare,1000,100000000,Social Media,81,In Progress,2025-03-20
+3f349e30-fdaa-48f8-903e-2880812506e8,Harris and Sons,Marketing,250,1000000,Social Media,5,Disqualified,2025-06-28
+2bd2e5e8-7b88-4b98-a97f-6e31bd023795,Branch PLC,Tech,5000,10000000,Referral,50,Converted,2025-02-08
+da05bea4-5431-4e7b-854e-8ff1c0009885,"Lee, Graves and Keller",Marketing,1000,10000000,Paid Ads,90,Disqualified,2025-07-07
+f9836f01-7fe0-48af-883f-c10fdb159cc4,Morrow LLC,Tech,250,10000000,Cold Outreach,90,In Progress,2025-06-22
+46e3d9a1-8d7a-4136-a791-a62cdcb33eea,Byrd-Thompson,Tech,500,5000000,Referral,46,New,2025-05-22
+5a2c55a2-4594-433b-b25a-7a416d3667f7,Hart PLC,Healthcare,50,1000000,Paid Ads,79,In Progress,2025-03-16
+07a6a4be-d48c-4c65-b049-408dc6f49aa6,Hatfield Ltd,Retail,500,100000000,Social Media,54,Disqualified,2025-04-16
+a4cd6924-facd-4ae6-971f-6aeac269d1c6,"Thomas, Mathis and Gonzales",Tech,250,50000000,Website,28,In Progress,2025-05-02
+99b0bcfe-dcb7-44b1-b94e-60e5f669c28e,Hawkins LLC,Retail,5000,10000000,Social Media,90,Converted,2025-02-25
+c382be69-907d-4af7-a688-6bafd28c6efc,"Mathis, King and Pitts",Healthcare,50,10000000,Referral,37,Converted,2025-06-28
+06d51d1b-3d88-408c-9447-3aa3bd3e264c,Dunn PLC,Healthcare,100,1000000,Paid Ads,98,In Progress,2025-01-10
+d069b9b3-3962-438f-b447-bd0657b075a3,Brown LLC,Healthcare,250,10000000,Paid Ads,41,New,2025-01-03
+3a15d4b9-9d27-4ff3-91bc-536aa862cbe6,Young-Williams,Healthcare,500,100000000,Paid Ads,96,New,2025-06-27
+88c96b69-b269-4551-9de3-89c91a201d8c,"Johnson, Valentine and Jones",Healthcare,250,100000000,Website,27,In Progress,2025-03-15
+a2243c28-8a1e-4c02-8a8b-baccca736bda,Hall-Marshall,Tech,250,1000000,Website,66,Contacted,2025-04-06
+1ee6f7c4-7003-4fb9-b390-dbcb23a546ff,Henry-Smith,Retail,50,100000000,Social Media,51,Converted,2025-01-28
+8f734e45-ae40-4390-87fb-399769ca4056,"Lee, Fitzpatrick and Pearson",Marketing,500,1000000,Paid Ads,54,Disqualified,2025-06-22
+ca68ed98-c67c-424e-9bbb-73381bfea57f,Gay and Sons,Retail,100,100000000,Referral,15,Converted,2025-07-09
+837dbf28-5e5d-4652-b987-6bf863f55af2,"Hale, Stephens and Olson",Healthcare,500,1000000,Paid Ads,39,In Progress,2025-06-13
+ae8f5479-c9d2-4df6-9a8d-43ee7c9ea4a0,"Hester, Johnson and Rivera",Finance,5000,100000000,Paid Ads,86,In Progress,2025-05-21
+c36e686e-17e7-4183-ad7b-074e6d97fe92,Perez-Page,Healthcare,500,1000000,Cold Outreach,55,New,2025-03-19
+e407d7ae-e351-407f-a279-b1e695fe42b2,Welch-Austin,Marketing,5000,1000000,Website,16,New,2025-02-09
+c7c04ec0-ce51-4b25-b9ca-4983c62fb449,"Hart, Russell and Gentry",Retail,100,50000000,Website,98,Disqualified,2025-07-13
+bf400e4f-56f9-4eb0-8ebf-348a90524369,"Fry, Woodward and Steele",Tech,5000,100000000,Referral,21,Contacted,2025-03-02
+541aa73d-644c-474b-a1ae-3a76af58a0c4,Patterson-Lamb,Marketing,1000,1000000,Social Media,85,In Progress,2025-03-20
+a912fd34-fe54-4278-8475-ef4c13fe6f3e,"Malone, Brown and Johnson",Healthcare,250,10000000,Referral,42,Converted,2025-05-20
+454c0b94-e0cb-4738-b298-4dd016df0b7a,Cherry and Sons,Marketing,5000,50000000,Social Media,92,In Progress,2025-01-23
+4e5647bf-72d4-46ea-8c94-0a34d37652a4,"Oliver, Shaw and Brooks",Marketing,1000,5000000,Website,70,Disqualified,2025-07-17
+16b670b7-76fc-43f7-bfd4-727422a2907f,Carter-Neal,Healthcare,5000,10000000,Referral,22,Converted,2025-06-26
+40e4b229-23c0-41ab-9c30-36e3d421b38c,Summers and Sons,Retail,250,100000000,Paid Ads,7,Disqualified,2025-06-15
+84568682-b161-4290-9e40-243ce162a683,"Munoz, Coleman and Davis",Marketing,250,100000000,Referral,80,Converted,2025-06-06
+e3926ab3-b8f5-4b16-9937-5c3d1df01172,"Holmes, Spears and Cox",Retail,250,100000000,Paid Ads,36,In Progress,2025-01-15
+00703fd7-0395-4f19-9d4b-87a279c6bcb3,"Petty, Gardner and Reed",Retail,500,5000000,Website,98,Disqualified,2025-02-01
+d03ee5b8-1705-4f76-8179-186ed9de40aa,"Wood, Rivera and Jones",Healthcare,250,50000000,Referral,14,Disqualified,2025-05-26
+6e11256e-44dd-465f-8b3a-b149f284d26c,Williams-Kennedy,Finance,5000,10000000,Paid Ads,59,New,2025-07-08
+bdb7264f-b0f5-42ff-add5-9eefa6a1abbf,Gonzalez-Soto,Tech,5000,10000000,Website,97,Converted,2025-03-11
+f92a46e9-32a5-40df-add9-ca004abac575,Jensen-Gibbs,Marketing,250,10000000,Social Media,47,Contacted,2025-06-27
+71219be9-3896-47f4-b239-53e9500ad104,"Henderson, Zavala and Marsh",Retail,5000,1000000,Referral,54,In Progress,2025-03-26
+8e4fb986-6de2-467f-95f9-79794b5e010a,"Mcbride, Salazar and Hobbs",Retail,1000,50000000,Social Media,27,Converted,2025-04-04
+e3b2b273-d4cf-4b5d-860f-d8e5121d2b20,"Strong, Hill and Rose",Finance,100,100000000,Cold Outreach,10,New,2025-06-17
+0a747718-33e4-4a57-af31-bae0a642af21,Lopez Group,Marketing,500,100000000,Paid Ads,70,New,2025-04-20
+e346c659-b11e-445c-aa89-aff42c23d92f,"Smith, Aguilar and Hodges",Healthcare,500,5000000,Cold Outreach,20,Disqualified,2025-05-15
+d442eaea-92ed-4ef5-9a1b-1a146fdc09f1,Washington Ltd,Finance,5000,10000000,Cold Outreach,69,New,2025-06-11
+b8661aed-0453-418e-b7ea-77c86933cca1,Long LLC,Finance,1000,1000000,Cold Outreach,26,Converted,2025-05-24
+1032ecfa-8cca-43e0-86ed-3fa7c7e4d580,"Neal, Rasmussen and Gray",Healthcare,100,50000000,Social Media,41,Disqualified,2025-04-01
