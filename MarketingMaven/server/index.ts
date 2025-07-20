@@ -1,3 +1,10 @@
+import dotenv from 'dotenv';
+dotenv.config();
+
+// This file is the entry point for the server.
+// It sets up the Express app, registers routes, and starts the server.
+// It also handles logging and error handling.
+
 import express, { type Request, Response, NextFunction } from "express";
 import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
@@ -61,11 +68,16 @@ app.use((req, res, next) => {
   // this serves both the API and the client.
   // It is the only port that is not firewalled.
   const port = parseInt(process.env.PORT || '5000', 10);
-  server.listen({
-    port,
-    host: "0.0.0.0",
-    reusePort: true,
-  }, () => {
-    log(`serving on port ${port}`);
-  });
+  
+  server.listen(port, () => {
+    log('serving on port ${port}');
+  })
+  
+  //server.listen({
+  //  port,
+  //  host: "localhost", //changed from "0.0.0.0"
+  //  reusePort: true,
+  //}, () => {
+  //  log(`serving on port ${port}`);
+  //});
 })();
